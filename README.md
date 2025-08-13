@@ -1,5 +1,5 @@
 # RailwayReform - 列车无人驾驶系统
-
+**需要机械动力0.5.1j和汽鸣铁道作为前置**
 本项目为Minecraft模组，基于机械动力(Create)和汽鸣铁道(Steam 'n' Rails)实现列车自动驾驶功能。
 
 ## 功能特性
